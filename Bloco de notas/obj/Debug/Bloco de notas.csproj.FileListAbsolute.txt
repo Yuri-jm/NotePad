@@ -1,0 +1,13 @@
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\bin\Debug\Bloco de notas.exe.config
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\bin\Debug\Bloco de notas.exe
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\bin\Debug\Bloco de notas.pdb
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\obj\Debug\Bloco de notas.csproj.AssemblyReference.cache
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\obj\Debug\Bloco de notas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\obj\Debug\Bloco_de_notas.Form1.resources
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\obj\Debug\Bloco_de_notas.Properties.Resources.resources
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\obj\Debug\Bloco de notas.csproj.GenerateResource.cache
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\obj\Debug\Bloco de notas.csproj.CoreCompileInputs.cache
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\obj\Debug\Bloco de notas.exe
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\obj\Debug\Bloco de notas.pdb
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\obj\Debug\Bloco_de_notas.Substituir.resources
+C:\Users\Yuri Mayrink\source\repos\Bloco de notas\Bloco de notas\obj\Debug\Bloco_de_notas.Localizar.resources
